@@ -8,4 +8,4 @@
 * Stack
 
 
-* Using Aman Dhattarwal's C++ Course Playlist - https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ as reference.
+Using Aman Dhattarwal's C++ Course Playlist - https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ as reference.
