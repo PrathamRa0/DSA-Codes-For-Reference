@@ -1,6 +1,7 @@
 # Data Structure Codes in C++ For Future Reference.
 
 * Writing and keeping all DSA codes for learning purposes.
+* Contains implementation and all important type of operations performed on specific data structures.
 
 ## Contents: ##
 * Linked List
