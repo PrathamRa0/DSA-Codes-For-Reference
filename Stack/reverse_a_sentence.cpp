@@ -27,5 +27,5 @@ void reverseSentence(string s)
 int main()
 {
     string s = "Hello, How are you?";
-    reverseSentence(s);
+    reverseSentence(s);  
 }
